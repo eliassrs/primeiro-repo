@@ -9,9 +9,8 @@ public class Main {
 	}
 
 	private void start() {
-		
-		int idade = 1;
-		System.out.println("Maria Clara tem " + idade + " ano");
+
+		System.out.println("Maria Clara tem 1 ano de idade.");
 
 	}
 
